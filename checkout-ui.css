@@ -1,0 +1,167 @@
+/* Checkout ticket — cream, ink, one path. */
+.pdp.is-checking-out .pdp-actions,
+.pdp:has(.pdp-checkout:not([hidden])) .pdp-actions{
+  display:none!important;
+}
+.pdp-checkout{
+  display:grid;
+  gap:.9rem;
+  margin:0 0 1.15rem;
+  padding:1.1rem 1rem .85rem;
+  border:1px solid var(--ink,#1a100c);
+  background:var(--bone,#f6efe6);
+}
+.pdp-checkout[hidden]{display:none!important}
+.pdp-checkout-head{
+  display:grid;
+  gap:.12rem;
+  padding:0 0 .75rem;
+  border-bottom:1px solid color-mix(in srgb, var(--ink,#1a100c) 14%, transparent);
+}
+.pdp-checkout-kicker{
+  margin:0;
+  font-family:var(--font-mono,"IBM Plex Mono",monospace);
+  font-size:.68rem;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  color:var(--mute,#6b5e55);
+}
+.pdp-checkout-item{
+  margin:0;
+  font-family:var(--font-display,Syne,sans-serif);
+  font-size:1.15rem;
+  font-weight:650;
+  letter-spacing:-.02em;
+  line-height:1.2;
+  color:var(--ink,#1a100c);
+}
+.pdp-checkout-price{
+  margin:.2rem 0 0;
+  font-family:var(--font-mono,"IBM Plex Mono",monospace);
+  font-size:.92rem;
+  letter-spacing:.06em;
+  color:#1b3b2a;
+  font-weight:600;
+}
+.pdp-checkout-price .price-was{
+  margin-right:.5em;
+  color:var(--mute,#6b5e55);
+  font-weight:400;
+  text-decoration:line-through;
+  text-decoration-color:#c8102e;
+}
+.pdp-field{
+  display:grid;
+  gap:.35rem;
+  font-family:var(--font-mono,"IBM Plex Mono",monospace);
+  font-size:.68rem;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+  color:var(--mute,#6b5e55);
+}
+.pdp-checkout input[type=email],
+.pdp-checkout input[type=text]{
+  width:100%;
+  box-sizing:border-box;
+  padding:.85rem .9rem;
+  border:1px solid var(--line,#d9d0c6);
+  background:var(--void,#f4f1ec);
+  color:var(--ink,#1a100c);
+  font-family:var(--font-body,"Instrument Sans",sans-serif);
+  font-size:16px;
+  letter-spacing:0;
+  text-transform:none;
+  border-radius:0;
+  appearance:none;
+  -webkit-appearance:none;
+}
+.pdp-checkout input::placeholder{color:var(--mute-dim,#9a8e84)}
+.pdp-checkout input:focus{
+  outline:1px solid var(--ink,#1a100c);
+  outline-offset:0;
+  border-color:var(--ink,#1a100c);
+}
+.pdp-checkout-cancel{
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
+  min-height:44px;
+  margin:-.15rem 0 0;
+  padding:0;
+  border:0;
+  background:none;
+  color:var(--mute,#6b5e55);
+  font-family:var(--font-mono,"IBM Plex Mono",monospace);
+  font-size:.68rem;
+  letter-spacing:.14em;
+  text-transform:uppercase;
+  cursor:pointer;
+  appearance:none;
+  -webkit-appearance:none;
+}
+.pdp-checkout-cancel:hover{color:var(--ink,#1a100c)}
+.pay-page{
+  max-width:28rem;
+  margin:0 auto;
+  padding:clamp(1.75rem,5vw,3.5rem) var(--pad,1.15rem) clamp(4rem,10vw,6rem);
+}
+.pay-page h1{
+  margin:0 0 1rem;
+  font-size:clamp(2rem,6vw,3rem);
+  letter-spacing:-.03em;
+}
+.pay-card{
+  display:grid;
+  gap:.9rem;
+  padding:1.15rem 1.05rem 1.2rem;
+  border:1px solid var(--ink,#1a100c);
+  background:var(--bone,#f6efe6);
+}
+.pay-summary{display:grid;gap:.2rem}
+.pay-summary-item{
+  margin:0;
+  font-family:var(--font-display,Syne,sans-serif);
+  font-size:1.15rem;
+  font-weight:650;
+  letter-spacing:-.02em;
+}
+.pay-summary-price{
+  margin:0;
+  font-family:var(--font-mono,"IBM Plex Mono",monospace);
+  font-size:.92rem;
+  letter-spacing:.06em;
+  color:#1b3b2a;
+  font-weight:600;
+}
+.pay-status{margin:0;color:var(--mute,#6b5e55);font-size:.95rem}
+.pay-back{
+  margin:1.25rem 0 0;
+  font-family:var(--font-mono,"IBM Plex Mono",monospace);
+  font-size:.72rem;
+  letter-spacing:.12em;
+  text-transform:uppercase;
+}
+#pay-element{margin:1rem 0 1.25rem}
+
+[data-pay-submit][hidden],
+[data-pay-element][hidden],
+[data-shipping-element][hidden]{display:none!important}
+#shipping-element,#pay-element{margin:.35rem 0 0}
+
+/* Cart lines on the PDP ticket + pay page */
+.pdp-cart-lines{display:grid;gap:.55rem}
+.pdp-cart-line{display:flex;gap:.7rem;align-items:center}
+.pdp-cart-thumb{width:56px;height:56px;object-fit:cover;border:1px solid var(--line,#d9d0c6);background:var(--void,#f4f1ec)}
+.pdp-cart-meta{flex:1;min-width:0}
+.pdp-cart-title{margin:0;font-family:var(--font-display,Syne,sans-serif);font-weight:650;font-size:.98rem;letter-spacing:-.01em;color:var(--ink,#1a100c)}
+.pdp-cart-price{margin:.1rem 0 0;font-family:var(--font-mono,"IBM Plex Mono",monospace);font-size:.82rem;letter-spacing:.05em;color:#1b3b2a;font-weight:600}
+.pdp-cart-qty{display:flex;align-items:center;gap:.5rem;font-family:var(--font-mono,"IBM Plex Mono",monospace);font-size:.9rem}
+.pdp-cart-qty button{width:32px;height:32px;border:1px solid var(--ink,#1a100c);background:none;color:var(--ink,#1a100c);font-size:1rem;line-height:1;cursor:pointer;appearance:none;-webkit-appearance:none}
+.pdp-cart-qty button:hover{background:var(--ink,#1a100c);color:var(--bone,#f6efe6)}
+.pdp-cart-more{display:inline-flex;align-items:center;justify-content:center;min-height:44px;border:1px solid var(--ink,#1a100c);color:var(--ink,#1a100c);text-decoration:none;font-family:var(--font-mono,"IBM Plex Mono",monospace);font-size:.7rem;letter-spacing:.14em;text-transform:uppercase}
+.pdp-cart-more:hover{background:var(--ink,#1a100c);color:var(--bone,#f6efe6)}
+.pay-items{display:grid;gap:.7rem}
+.pay-item{display:flex;gap:.8rem;align-items:center}
+.pay-item-img{width:72px;height:72px;object-fit:cover;border:1px solid var(--line,#d9d0c6);background:var(--void,#f4f1ec)}
+.pay-item .pay-summary-item{font-size:1.02rem}
+.pay-total{padding-top:.55rem;border-top:1px solid color-mix(in srgb, var(--ink,#1a100c) 14%, transparent);font-size:1rem}

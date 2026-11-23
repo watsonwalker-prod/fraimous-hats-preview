@@ -1,0 +1,39 @@
+/* Image review picker. Scoped to .rev-page so PDP styles stay untouched. */
+.rev-page { padding-bottom: 7.5rem; }
+.rev-main { max-width: 1360px; margin: 0 auto; padding: 2rem var(--pad) 3rem; }
+.rev-intro { margin: 0 0 2.5rem; max-width: 40rem; }
+.rev-intro h1 { font-size: clamp(2rem, 4vw, 3rem); margin: 0.35rem 0 0.75rem; letter-spacing: -0.03em; }
+.rev-intro p { color: var(--mute); margin: 0 0 1.25rem; }
+.rev-toc { display: flex; flex-wrap: wrap; gap: 0.4rem 0.85rem; }
+.rev-toc a { font-family: var(--font-mono); font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--mute); border-bottom: 1px solid var(--line); }
+.rev-toc a span { color: var(--mute-dim); }
+.rev-toc a:hover { color: var(--ink); }
+.rev-group { margin: 0 0 3rem; }
+.rev-group h2 { font-size: 1.65rem; margin: 0 0 1rem; letter-spacing: -0.02em; display: flex; align-items: baseline; gap: 0.75rem; }
+.rev-group h2 span { font-size: 0.75rem; color: var(--mute); letter-spacing: 0.08em; text-transform: uppercase; font-weight: 400; }
+.rev-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 1rem; }
+.rev-card { position: relative; background: #fff; border: 1px solid var(--line); padding: 0 0 0.7rem; }
+.rev-card.is-on { border-color: var(--ink); box-shadow: inset 0 0 0 1px var(--ink); }
+.rev-check { position: absolute; top: 0.5rem; left: 0.5rem; z-index: 2; background: #fff; border: 1px solid var(--ink); width: 1.25rem; height: 1.25rem; display: flex; align-items: center; justify-content: center; }
+.rev-check input { margin: 0; width: 0.85rem; height: 0.85rem; accent-color: var(--ink); }
+.rev-thumb { display: block; width: 100%; padding: 0; border: 0; background: var(--void-soft); cursor: zoom-in; aspect-ratio: 1; overflow: hidden; }
+.rev-thumb img { width: 100%; height: 100%; object-fit: cover; }
+.rev-label { margin: 0.55rem 0.6rem 0.15rem; font-size: 0.68rem; line-height: 1.35; color: var(--mute); word-break: break-word; }
+.rev-tags { margin: 0 0.6rem; min-height: 1.1rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.rev-tag { font-family: var(--font-mono); font-size: 0.62rem; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.1rem 0.35rem; border: 1px solid var(--line); color: var(--mute); }
+.rev-tag.is-pdp { border-color: var(--ink); color: var(--ink); }
+.rev-tag.is-liked { border-color: #3c5a3c; color: #3c5a3c; }
+.rev-tag.is-rejected { border-color: #8a3a32; color: #8a3a32; }
+.rev-tag.is-new { border-color: var(--ink); color: var(--ink); }
+.rev-tag.is-colors { color: var(--mute); }
+.rev-bar { position: sticky; bottom: 0; z-index: 20; display: flex; flex-wrap: wrap; align-items: center; gap: 0.75rem 1.25rem; padding: 0.85rem var(--pad); background: color-mix(in srgb, var(--void) 92%, #fff); border-top: 1px solid var(--line); backdrop-filter: blur(8px); }
+.rev-counts { font-size: 0.72rem; letter-spacing: 0.04em; text-transform: uppercase; color: var(--mute); flex: 1 1 16rem; line-height: 1.5; }
+.rev-copy-status { margin: 0; font-size: 0.85rem; color: var(--mute); }
+.rev-lightbox { position: fixed; inset: 0; z-index: 40; background: color-mix(in srgb, #1a100c 78%, transparent); display: flex; align-items: center; justify-content: center; padding: 2rem; }
+.rev-lightbox[hidden] { display: none; }
+.rev-lightbox img { max-width: min(96vw, 1600px); max-height: 92vh; width: auto; height: auto; box-shadow: 0 12px 40px color-mix(in srgb, #1a100c 40%, transparent); }
+.rev-lightbox-close { position: absolute; top: 1rem; right: 1rem; border: 1px solid #fff; background: transparent; color: #fff; font-family: var(--font-mono); font-size: 0.75rem; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.4rem 0.7rem; cursor: pointer; }
+@media (max-width: 640px) {
+  .rev-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 0.7rem; }
+  .rev-bar { padding-bottom: calc(0.85rem + env(safe-area-inset-bottom)); }
+}

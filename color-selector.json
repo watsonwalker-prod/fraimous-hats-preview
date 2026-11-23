@@ -1,0 +1,183 @@
+{
+  "listPrice": "$90.57",
+  "salePrice": "$48.00",
+  "hats": [
+    {
+      "slug": "many-are-saying",
+      "name": "Many Are Saying",
+      "color": "Spruce",
+      "swatch": "#223f37",
+      "href": "/hats/many-are-saying"
+    },
+    {
+      "slug": "dot-dot-dot",
+      "name": "Dot Dot Dot",
+      "color": "Navy",
+      "swatch": "#222938",
+      "href": "/hats/dot-dot-dot"
+    },
+    {
+      "slug": "raige-bait",
+      "name": "Raige Bait",
+      "color": "Stone",
+      "swatch": "#c3ada0",
+      "href": "/hats/raige-bait"
+    },
+    {
+      "slug": "sparkle",
+      "name": "✨",
+      "color": "Khaki",
+      "swatch": "#a68d6e",
+      "href": "/hats/sparkle"
+    },
+    {
+      "slug": "haiter",
+      "name": "Haiter",
+      "color": "Cranberry",
+      "swatch": "#980e25",
+      "href": "/hats/haiter"
+    },
+    {
+      "slug": "youre-absolutely-right",
+      "name": "You’re Absolutely Right",
+      "color": "Black",
+      "swatch": "#212121",
+      "href": "/hats/youre-absolutely-right"
+    },
+    {
+      "slug": "em-dash",
+      "name": "—",
+      "color": "White",
+      "swatch": "#f2f2f0",
+      "href": "/hats/em-dash"
+    }
+  ],
+  "scenes": [
+    {
+      "id": "seated-close",
+      "label": "Seated",
+      "aspect": "16 / 9",
+      "hats": {
+        "many-are-saying": "/images/color-selector/seated-close/many-are-saying-c3988767.webp",
+        "dot-dot-dot": "/images/color-selector/seated-close/dot-dot-dot-82d0a2dd.webp",
+        "raige-bait": "/images/color-selector/seated-close/raige-bait-f5e612f3.webp",
+        "sparkle": "/images/color-selector/seated-close/sparkle-fedfc659.webp",
+        "haiter": "/images/color-selector/seated-close/haiter-367bd765.webp",
+        "youre-absolutely-right": "/images/color-selector/seated-close/youre-absolutely-right-849ad43b.webp",
+        "em-dash": "/images/color-selector/seated-close/em-dash-e56670f0.webp"
+      },
+      "previews": {
+        "butter": {
+          "dot-dot-dot": "/images/color-selector/seated-close/preview-butter-dot-dot-dot-fa08e8bc.webp",
+          "em-dash": "/images/color-selector/seated-close/preview-butter-em-dash-8bd363f7.webp",
+          "haiter": "/images/color-selector/seated-close/preview-butter-haiter-3c7d6ba0.webp",
+          "many-are-saying": "/images/color-selector/seated-close/preview-butter-many-are-saying-ed513a2b.webp",
+          "raige-bait": "/images/color-selector/seated-close/preview-butter-raige-bait-10b73e4f.webp",
+          "sparkle": "/images/color-selector/seated-close/preview-butter-sparkle-6c37980d.webp",
+          "youre-absolutely-right": "/images/color-selector/seated-close/preview-butter-youre-absolutely-right-e2c122da.webp"
+        },
+        "crimson": {
+          "dot-dot-dot": "/images/color-selector/seated-close/preview-crimson-dot-dot-dot-2c1431c4.webp",
+          "em-dash": "/images/color-selector/seated-close/preview-crimson-em-dash-a8703110.webp",
+          "haiter": "/images/color-selector/seated-close/preview-crimson-haiter-f06924d7.webp",
+          "many-are-saying": "/images/color-selector/seated-close/preview-crimson-many-are-saying-c58be392.webp",
+          "raige-bait": "/images/color-selector/seated-close/preview-crimson-raige-bait-8ccb0383.webp",
+          "sparkle": "/images/color-selector/seated-close/preview-crimson-sparkle-f2e2e19d.webp",
+          "youre-absolutely-right": "/images/color-selector/seated-close/preview-crimson-youre-absolutely-right-fab7e956.webp"
+        },
+        "ivory": {
+          "dot-dot-dot": "/images/color-selector/seated-close/preview-ivory-dot-dot-dot-dab9c52c.webp",
+          "em-dash": "/images/color-selector/seated-close/preview-ivory-em-dash-76fef8e0.webp",
+          "haiter": "/images/color-selector/seated-close/preview-ivory-haiter-1e2d0e12.webp",
+          "many-are-saying": "/images/color-selector/seated-close/preview-ivory-many-are-saying-5b6eaf12.webp",
+          "raige-bait": "/images/color-selector/seated-close/preview-ivory-raige-bait-ad2e4f29.webp",
+          "sparkle": "/images/color-selector/seated-close/preview-ivory-sparkle-6e78609e.webp",
+          "youre-absolutely-right": "/images/color-selector/seated-close/preview-ivory-youre-absolutely-right-487120b1.webp"
+        },
+        "sandstone": {
+          "dot-dot-dot": "/images/color-selector/seated-close/preview-sandstone-dot-dot-dot-108900f4.webp",
+          "em-dash": "/images/color-selector/seated-close/preview-sandstone-em-dash-b70ebb5d.webp",
+          "haiter": "/images/color-selector/seated-close/preview-sandstone-haiter-3214dcde.webp",
+          "many-are-saying": "/images/color-selector/seated-close/preview-sandstone-many-are-saying-58cc09ec.webp",
+          "raige-bait": "/images/color-selector/seated-close/preview-sandstone-raige-bait-13a3aecf.webp",
+          "sparkle": "/images/color-selector/seated-close/preview-sandstone-sparkle-84400b01.webp",
+          "youre-absolutely-right": "/images/color-selector/seated-close/preview-sandstone-youre-absolutely-right-87831aaf.webp"
+        }
+      }
+    },
+    {
+      "id": "closeup",
+      "label": "Close Up",
+      "aspect": "3 / 4",
+      "hats": {
+        "many-are-saying": "/images/color-selector/closeup/many-are-saying-13742b73.webp",
+        "dot-dot-dot": "/images/color-selector/closeup/dot-dot-dot-a60da3e3.webp",
+        "raige-bait": "/images/color-selector/closeup/raige-bait-bf2d295e.webp",
+        "sparkle": "/images/color-selector/closeup/sparkle-ca005553.webp",
+        "haiter": "/images/color-selector/closeup/haiter-fef098a4.webp",
+        "youre-absolutely-right": "/images/color-selector/closeup/youre-absolutely-right-0a4ccb4f.webp",
+        "em-dash": "/images/color-selector/closeup/em-dash-2a507be8.webp"
+      },
+      "previews": {
+        "butter": {
+          "dot-dot-dot": "/images/color-selector/closeup/preview-butter-dot-dot-dot-5e4a5dda.webp",
+          "em-dash": "/images/color-selector/closeup/preview-butter-em-dash-35fe461b.webp",
+          "haiter": "/images/color-selector/closeup/preview-butter-haiter-ae70df6d.webp",
+          "many-are-saying": "/images/color-selector/closeup/preview-butter-many-are-saying-962abc2c.webp",
+          "raige-bait": "/images/color-selector/closeup/preview-butter-raige-bait-b6bb42f9.webp",
+          "sparkle": "/images/color-selector/closeup/preview-butter-sparkle-4f888c1c.webp",
+          "youre-absolutely-right": "/images/color-selector/closeup/preview-butter-youre-absolutely-right-22ef488a.webp"
+        },
+        "crimson": {
+          "dot-dot-dot": "/images/color-selector/closeup/preview-crimson-dot-dot-dot-7c5a7603.webp",
+          "em-dash": "/images/color-selector/closeup/preview-crimson-em-dash-784ececa.webp",
+          "haiter": "/images/color-selector/closeup/preview-crimson-haiter-62b4f8db.webp",
+          "many-are-saying": "/images/color-selector/closeup/preview-crimson-many-are-saying-af90e6ef.webp",
+          "raige-bait": "/images/color-selector/closeup/preview-crimson-raige-bait-657c4dcd.webp",
+          "sparkle": "/images/color-selector/closeup/preview-crimson-sparkle-01479282.webp",
+          "youre-absolutely-right": "/images/color-selector/closeup/preview-crimson-youre-absolutely-right-dd52e978.webp"
+        },
+        "ivory": {
+          "dot-dot-dot": "/images/color-selector/closeup/preview-ivory-dot-dot-dot-2175df08.webp",
+          "em-dash": "/images/color-selector/closeup/preview-ivory-em-dash-6a3214fd.webp",
+          "haiter": "/images/color-selector/closeup/preview-ivory-haiter-100eb967.webp",
+          "many-are-saying": "/images/color-selector/closeup/preview-ivory-many-are-saying-faed10ea.webp",
+          "raige-bait": "/images/color-selector/closeup/preview-ivory-raige-bait-f2640917.webp",
+          "sparkle": "/images/color-selector/closeup/preview-ivory-sparkle-e172f7ee.webp",
+          "youre-absolutely-right": "/images/color-selector/closeup/preview-ivory-youre-absolutely-right-d00917e0.webp"
+        },
+        "sandstone": {
+          "dot-dot-dot": "/images/color-selector/closeup/preview-sandstone-dot-dot-dot-d0ed49a7.webp",
+          "em-dash": "/images/color-selector/closeup/preview-sandstone-em-dash-9377aa94.webp",
+          "haiter": "/images/color-selector/closeup/preview-sandstone-haiter-84801c16.webp",
+          "many-are-saying": "/images/color-selector/closeup/preview-sandstone-many-are-saying-63ca4b59.webp",
+          "raige-bait": "/images/color-selector/closeup/preview-sandstone-raige-bait-9e5259bd.webp",
+          "sparkle": "/images/color-selector/closeup/preview-sandstone-sparkle-3e7aa041.webp",
+          "youre-absolutely-right": "/images/color-selector/closeup/preview-sandstone-youre-absolutely-right-6dbfaf13.webp"
+        }
+      }
+    }
+  ],
+  "previewColors": [
+    {
+      "id": "ivory",
+      "color": "Ivory",
+      "swatch": "#e1dbc9"
+    },
+    {
+      "id": "crimson",
+      "color": "Crimson",
+      "swatch": "#a84654"
+    },
+    {
+      "id": "sandstone",
+      "color": "Sandstone",
+      "swatch": "#929287"
+    },
+    {
+      "id": "butter",
+      "color": "Butter",
+      "swatch": "#f0da92"
+    }
+  ]
+}

@@ -1,0 +1,2810 @@
+{
+  "counts": {
+    "many-are-saying": 56,
+    "dot-dot-dot": 48,
+    "raige-bait": 46,
+    "sparkle": 48,
+    "haiter": 54,
+    "youre-absolutely-right": 49,
+    "em-dash": 51,
+    "collection": 45
+  },
+  "total": 397,
+  "groups": {
+    "many-are-saying": [
+      {
+        "path": "/workspace/hats/haitmous-editorial/many-are-saying-original-v2.jpg",
+        "label": "haitmous-editorial / many-are-saying-original-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "original"
+      },
+      {
+        "path": "/workspace/hats/haitmous-editorial/many-are-saying-comfort-v2.jpg",
+        "label": "haitmous-editorial / many-are-saying-comfort-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "comfort"
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/many-are-saying/back.jpg",
+        "label": "haitmous-selected/web/many-are-saying / back.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/many-are-saying/front.jpg",
+        "label": "haitmous-selected/web/many-are-saying / front.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/many-are-saying/hero.jpg",
+        "label": "haitmous-selected/web/many-are-saying / hero.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/many-are-saying/lifestyle-dinner.jpg",
+        "label": "haitmous-selected/web/many-are-saying / lifestyle-dinner.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/many-are-saying/lifestyle-runway-1.jpg",
+        "label": "haitmous-selected/web/many-are-saying / lifestyle-runway-1.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/many-are-saying/lifestyle-still.jpg",
+        "label": "haitmous-selected/web/many-are-saying / lifestyle-still.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/many-are-saying/worn.jpg",
+        "label": "haitmous-selected/web/many-are-saying / worn.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/many-are-saying.jpg",
+        "label": "color-selector/closeup / many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--butter--many-are-saying.jpg",
+        "label": "color-selector/closeup / preview--butter--many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--crimson--many-are-saying.jpg",
+        "label": "color-selector/closeup / preview--crimson--many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--ivory--many-are-saying.jpg",
+        "label": "color-selector/closeup / preview--ivory--many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--sandstone--many-are-saying.jpg",
+        "label": "color-selector/closeup / preview--sandstone--many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--butter--many-are-saying.jpg",
+        "label": "color-selector/seated-close / preview--butter--many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--crimson--many-are-saying.jpg",
+        "label": "color-selector/seated-close / preview--crimson--many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--ivory--many-are-saying.jpg",
+        "label": "color-selector/seated-close / preview--ivory--many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--sandstone--many-are-saying.jpg",
+        "label": "color-selector/seated-close / preview--sandstone--many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-curb/many-are-saying.jpg",
+        "label": "haitmous-curb / many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/still/many-are-saying-v2.jpg",
+        "label": "haitmous-faceless/still / many-are-saying-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/many-are-saying.jpg",
+        "label": "haitmous-faceless/watson / many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/many-are-saying-1.jpg",
+        "label": "loro / many-are-saying-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/many-are-saying-2.jpg",
+        "label": "loro / many-are-saying-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/many-are-saying-3.jpg",
+        "label": "loro / many-are-saying-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-02-many-are-saying-paper.jpg",
+        "label": "loro/final / final-02-many-are-saying-paper.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-10-many-are-saying-counter.jpg",
+        "label": "loro/final / final-10-many-are-saying-counter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/wide/many-are-saying-hero-16x9.jpg",
+        "label": "loro/wide / many-are-saying-hero-16x9.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/many-are-saying-back.jpg",
+        "label": "printful-mockups / many-are-saying-back.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/many-are-saying-printful-embroidery_front_large-front.jpg",
+        "label": "printful-mockups / many-are-saying-printful-embroidery_front_large-front.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/many-are-saying-1.jpg",
+        "label": "runway / many-are-saying-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/many-are-saying-2.jpg",
+        "label": "runway / many-are-saying-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/many-are-saying-3.jpg",
+        "label": "runway / many-are-saying-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/many-are-saying-contact.jpg",
+        "label": "runway / many-are-saying-contact.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/many-are-saying-1-v3.jpg",
+        "label": "runway/fixed / many-are-saying-1-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/many-are-saying-1.jpg",
+        "label": "runway/fixed / many-are-saying-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/many-are-saying-2-v3.jpg",
+        "label": "runway/fixed / many-are-saying-2-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/many-are-saying-2.jpg",
+        "label": "runway/fixed / many-are-saying-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/many-are-saying-3-v3.jpg",
+        "label": "runway/fixed / many-are-saying-3-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/many-are-saying-3.jpg",
+        "label": "runway/fixed / many-are-saying-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/01-many-are-saying-red-ai-no-ww.jpg",
+        "label": "twin-hat-mocks / 01-many-are-saying-red-ai-no-ww.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/01-many-are-saying.jpg",
+        "label": "twin-hat-mocks / 01-many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/06-manyaresaying-flash-bed.jpg",
+        "label": "twin-hat-mocks / 06-manyaresaying-flash-bed.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/06-manyaresaying-flash-dinner.jpg",
+        "label": "twin-hat-mocks / 06-manyaresaying-flash-dinner.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-back-manyaresaying.jpg",
+        "label": "twin-hat-mocks / 07-back-manyaresaying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-texture-flash-manyaresaying.jpg",
+        "label": "twin-hat-mocks / 07-texture-flash-manyaresaying.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/08-many-are-saying-footer-close-flash.jpg",
+        "label": "twin-hat-mocks / 08-many-are-saying-footer-close-flash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/08-many-are-saying-footer-close.jpg",
+        "label": "twin-hat-mocks / 08-many-are-saying-footer-close.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/08-many-are-saying-footer-wide-fixed.jpg",
+        "label": "twin-hat-mocks / 08-many-are-saying-footer-wide-fixed.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/08-many-are-saying-footer-wide-flash.jpg",
+        "label": "twin-hat-mocks / 08-many-are-saying-footer-wide-flash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/08-many-are-saying-footer-wide.jpg",
+        "label": "twin-hat-mocks / 08-many-are-saying-footer-wide.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/still/many-are-saying.jpg",
+        "label": "haitmous-faceless/still / many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/diner-many-are-saying.jpg",
+        "label": "haitmous-faceless/watson / diner-many-are-saying.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/many-are-saying-1.jpg",
+        "label": "haitmous-round2 / many-are-saying-1.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/many-are-saying-2.jpg",
+        "label": "haitmous-round2 / many-are-saying-2.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round3/many-are-saying-1.jpg",
+        "label": "haitmous-round3 / many-are-saying-1.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round3/many-are-saying-2.jpg",
+        "label": "haitmous-round3 / many-are-saying-2.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      }
+    ],
+    "dot-dot-dot": [
+      {
+        "path": "/workspace/hats/haitmous-editorial/dot-dot-dot-original-v2.jpg",
+        "label": "haitmous-editorial / dot-dot-dot-original-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "original"
+      },
+      {
+        "path": "/workspace/hats/haitmous-editorial/dot-dot-dot-comfort-v2.jpg",
+        "label": "haitmous-editorial / dot-dot-dot-comfort-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "comfort"
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/dot-dot-dot-1.jpg",
+        "label": "haitmous-round2 / dot-dot-dot-1.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/dot-dot-dot-2.jpg",
+        "label": "haitmous-round2 / dot-dot-dot-2.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/dot-dot-dot/back.jpg",
+        "label": "haitmous-selected/web/dot-dot-dot / back.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/dot-dot-dot/front.jpg",
+        "label": "haitmous-selected/web/dot-dot-dot / front.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/dot-dot-dot/hero.jpg",
+        "label": "haitmous-selected/web/dot-dot-dot / hero.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/dot-dot-dot/lifestyle-curb.jpg",
+        "label": "haitmous-selected/web/dot-dot-dot / lifestyle-curb.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/dot-dot-dot/lifestyle-editorial.jpg",
+        "label": "haitmous-selected/web/dot-dot-dot / lifestyle-editorial.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/dot-dot-dot/lifestyle-loro.jpg",
+        "label": "haitmous-selected/web/dot-dot-dot / lifestyle-loro.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/dot-dot-dot/lifestyle-round2-1.jpg",
+        "label": "haitmous-selected/web/dot-dot-dot / lifestyle-round2-1.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/dot-dot-dot/lifestyle-runway-1.jpg",
+        "label": "haitmous-selected/web/dot-dot-dot / lifestyle-runway-1.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/dot-dot-dot/worn.jpg",
+        "label": "haitmous-selected/web/dot-dot-dot / worn.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/dot-dot-dot.jpg",
+        "label": "color-selector/closeup / dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--butter--dot-dot-dot.jpg",
+        "label": "color-selector/closeup / preview--butter--dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--crimson--dot-dot-dot.jpg",
+        "label": "color-selector/closeup / preview--crimson--dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--ivory--dot-dot-dot.jpg",
+        "label": "color-selector/closeup / preview--ivory--dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--sandstone--dot-dot-dot.jpg",
+        "label": "color-selector/closeup / preview--sandstone--dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/dot-dot-dot.jpg",
+        "label": "color-selector/seated-close / dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--butter--dot-dot-dot.jpg",
+        "label": "color-selector/seated-close / preview--butter--dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--crimson--dot-dot-dot.jpg",
+        "label": "color-selector/seated-close / preview--crimson--dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--ivory--dot-dot-dot.jpg",
+        "label": "color-selector/seated-close / preview--ivory--dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--sandstone--dot-dot-dot.jpg",
+        "label": "color-selector/seated-close / preview--sandstone--dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-curb/dot-dot-dot.jpg",
+        "label": "haitmous-curb / dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/still/dot-dot-dot.jpg",
+        "label": "haitmous-faceless/still / dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/dot-dot-dot.jpg",
+        "label": "haitmous-faceless/watson / dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/dot-dot-dot-1.jpg",
+        "label": "loro / dot-dot-dot-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/dot-dot-dot-2.jpg",
+        "label": "loro / dot-dot-dot-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/dot-dot-dot-3.jpg",
+        "label": "loro / dot-dot-dot-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-04-dot-dot-dot-pause.jpg",
+        "label": "loro/final / final-04-dot-dot-dot-pause.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-12-dot-dot-dot-cafe.jpg",
+        "label": "loro/final / final-12-dot-dot-dot-cafe.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/wide/dot-dot-dot-hero-16x9.jpg",
+        "label": "loro/wide / dot-dot-dot-hero-16x9.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/dot-dot-dot-back.jpg",
+        "label": "printful-mockups / dot-dot-dot-back.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/dot-dot-dot-printful-embroidery_front_large-front.jpg",
+        "label": "printful-mockups / dot-dot-dot-printful-embroidery_front_large-front.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/dot-dot-dot-1.jpg",
+        "label": "runway / dot-dot-dot-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/dot-dot-dot-2.jpg",
+        "label": "runway / dot-dot-dot-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/dot-dot-dot-3.jpg",
+        "label": "runway / dot-dot-dot-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/dot-dot-dot-contact.jpg",
+        "label": "runway / dot-dot-dot-contact.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/dot-dot-dot-2-v3.jpg",
+        "label": "runway/fixed / dot-dot-dot-2-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/dot-dot-dot-2.jpg",
+        "label": "runway/fixed / dot-dot-dot-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/dot-dot-dot-3-v3.jpg",
+        "label": "runway/fixed / dot-dot-dot-3-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/dot-dot-dot-3.jpg",
+        "label": "runway/fixed / dot-dot-dot-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/02-dot-dot-dot.jpg",
+        "label": "twin-hat-mocks / 02-dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/06-dotdotdot-flash-bed.jpg",
+        "label": "twin-hat-mocks / 06-dotdotdot-flash-bed.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/06-dotdotdot-flash-dinner.jpg",
+        "label": "twin-hat-mocks / 06-dotdotdot-flash-dinner.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-back-dotdotdot.jpg",
+        "label": "twin-hat-mocks / 07-back-dotdotdot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-texture-flash-dotdotdot.jpg",
+        "label": "twin-hat-mocks / 07-texture-flash-dotdotdot.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/diner-dot-dot-dot.jpg",
+        "label": "haitmous-faceless/watson / diner-dot-dot-dot.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      }
+    ],
+    "raige-bait": [
+      {
+        "path": "/workspace/hats/haitmous-editorial/raige-bait-original-v2.jpg",
+        "label": "haitmous-editorial / raige-bait-original-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "original"
+      },
+      {
+        "path": "/workspace/hats/haitmous-editorial/raige-bait-comfort-v2.jpg",
+        "label": "haitmous-editorial / raige-bait-comfort-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "comfort"
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/raige-bait-1.jpg",
+        "label": "haitmous-round2 / raige-bait-1.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/raige-bait-2.jpg",
+        "label": "haitmous-round2 / raige-bait-2.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/raige-bait/back.jpg",
+        "label": "haitmous-selected/web/raige-bait / back.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/raige-bait/front.jpg",
+        "label": "haitmous-selected/web/raige-bait / front.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/raige-bait/lifestyle-curb.jpg",
+        "label": "haitmous-selected/web/raige-bait / lifestyle-curb.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/raige-bait/lifestyle-editorial-original.jpg",
+        "label": "haitmous-selected/web/raige-bait / lifestyle-editorial-original.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/raige-bait/lifestyle-loro.jpg",
+        "label": "haitmous-selected/web/raige-bait / lifestyle-loro.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/raige-bait/lifestyle-round2-1.jpg",
+        "label": "haitmous-selected/web/raige-bait / lifestyle-round2-1.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/raige-bait/lifestyle-runway-1.jpg",
+        "label": "haitmous-selected/web/raige-bait / lifestyle-runway-1.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/raige-bait/lifestyle-texture.jpg",
+        "label": "haitmous-selected/web/raige-bait / lifestyle-texture.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/raige-bait/worn.jpg",
+        "label": "haitmous-selected/web/raige-bait / worn.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--butter--raige-bait.jpg",
+        "label": "color-selector/closeup / preview--butter--raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--crimson--raige-bait.jpg",
+        "label": "color-selector/closeup / preview--crimson--raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--ivory--raige-bait.jpg",
+        "label": "color-selector/closeup / preview--ivory--raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--sandstone--raige-bait.jpg",
+        "label": "color-selector/closeup / preview--sandstone--raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/raige-bait.jpg",
+        "label": "color-selector/closeup / raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--butter--raige-bait.jpg",
+        "label": "color-selector/seated-close / preview--butter--raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--crimson--raige-bait.jpg",
+        "label": "color-selector/seated-close / preview--crimson--raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--ivory--raige-bait.jpg",
+        "label": "color-selector/seated-close / preview--ivory--raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--sandstone--raige-bait.jpg",
+        "label": "color-selector/seated-close / preview--sandstone--raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/raige-bait.jpg",
+        "label": "color-selector/seated-close / raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-curb/raige-bait.jpg",
+        "label": "haitmous-curb / raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/still/raige-bait.jpg",
+        "label": "haitmous-faceless/still / raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/raige-bait.jpg",
+        "label": "haitmous-faceless/watson / raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/raige-bait-1.jpg",
+        "label": "loro / raige-bait-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/raige-bait-2.jpg",
+        "label": "loro / raige-bait-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/raige-bait-3.jpg",
+        "label": "loro / raige-bait-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-03-raige-bait-glance.jpg",
+        "label": "loro/final / final-03-raige-bait-glance.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-11-raige-bait-book.jpg",
+        "label": "loro/final / final-11-raige-bait-book.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/wide/raige-bait-hero-16x9.jpg",
+        "label": "loro/wide / raige-bait-hero-16x9.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/raige-bait-back.jpg",
+        "label": "printful-mockups / raige-bait-back.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/raige-bait-printful-embroidery_front_large-front.jpg",
+        "label": "printful-mockups / raige-bait-printful-embroidery_front_large-front.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/raige-bait-1.jpg",
+        "label": "runway / raige-bait-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/raige-bait-2.jpg",
+        "label": "runway / raige-bait-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/raige-bait-3.jpg",
+        "label": "runway / raige-bait-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/raige-bait-contact.jpg",
+        "label": "runway / raige-bait-contact.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/raige-bait-2-v3.jpg",
+        "label": "runway/fixed / raige-bait-2-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/raige-bait-2.jpg",
+        "label": "runway/fixed / raige-bait-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/raige-bait-3-v3.jpg",
+        "label": "runway/fixed / raige-bait-3-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/raige-bait-3.jpg",
+        "label": "runway/fixed / raige-bait-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/03-raige-bait.jpg",
+        "label": "twin-hat-mocks / 03-raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-back-raigebait.jpg",
+        "label": "twin-hat-mocks / 07-back-raigebait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-texture-flash-raigebait.jpg",
+        "label": "twin-hat-mocks / 07-texture-flash-raigebait.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/diner-raige-bait.jpg",
+        "label": "haitmous-faceless/watson / diner-raige-bait.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      }
+    ],
+    "sparkle": [
+      {
+        "path": "/workspace/hats/haitmous-editorial/sparkle-original-v2.jpg",
+        "label": "haitmous-editorial / sparkle-original-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "original"
+      },
+      {
+        "path": "/workspace/hats/haitmous-editorial/sparkle-comfort-v2.jpg",
+        "label": "haitmous-editorial / sparkle-comfort-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "comfort"
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/sparkle/back.jpg",
+        "label": "haitmous-selected/web/sparkle / back.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/sparkle/front.jpg",
+        "label": "haitmous-selected/web/sparkle / front.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/sparkle/hero.jpg",
+        "label": "haitmous-selected/web/sparkle / hero.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/sparkle/lifestyle-car.jpg",
+        "label": "haitmous-selected/web/sparkle / lifestyle-car.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/sparkle/lifestyle-curb.jpg",
+        "label": "haitmous-selected/web/sparkle / lifestyle-curb.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/sparkle/lifestyle-editorial.jpg",
+        "label": "haitmous-selected/web/sparkle / lifestyle-editorial.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/sparkle/lifestyle-laugh.jpg",
+        "label": "haitmous-selected/web/sparkle / lifestyle-laugh.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/sparkle/lifestyle-runway-2.jpg",
+        "label": "haitmous-selected/web/sparkle / lifestyle-runway-2.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/sparkle/worn.jpg",
+        "label": "haitmous-selected/web/sparkle / worn.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--butter--sparkle.jpg",
+        "label": "color-selector/closeup / preview--butter--sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--crimson--sparkle.jpg",
+        "label": "color-selector/closeup / preview--crimson--sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--ivory--sparkle.jpg",
+        "label": "color-selector/closeup / preview--ivory--sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--sandstone--sparkle.jpg",
+        "label": "color-selector/closeup / preview--sandstone--sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/sparkle.jpg",
+        "label": "color-selector/closeup / sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--butter--sparkle.jpg",
+        "label": "color-selector/seated-close / preview--butter--sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--crimson--sparkle.jpg",
+        "label": "color-selector/seated-close / preview--crimson--sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--ivory--sparkle.jpg",
+        "label": "color-selector/seated-close / preview--ivory--sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--sandstone--sparkle.jpg",
+        "label": "color-selector/seated-close / preview--sandstone--sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/sparkle.jpg",
+        "label": "color-selector/seated-close / sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-curb/sparkle.jpg",
+        "label": "haitmous-curb / sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/still/sparkle.jpg",
+        "label": "haitmous-faceless/still / sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/sparkle.jpg",
+        "label": "haitmous-faceless/watson / sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/sparkle-1.jpg",
+        "label": "loro / sparkle-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/sparkle-2.jpg",
+        "label": "loro / sparkle-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/sparkle-3.jpg",
+        "label": "loro / sparkle-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-14-sparkle-cafe-window.jpg",
+        "label": "loro/final / final-14-sparkle-cafe-window.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/wide/sparkle-hero-21x9.jpg",
+        "label": "loro/wide / sparkle-hero-21x9.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/sparkle-back.jpg",
+        "label": "printful-mockups / sparkle-back.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/sparkle-printful-embroidery_front_large-front.jpg",
+        "label": "printful-mockups / sparkle-printful-embroidery_front_large-front.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/sparkle-1.jpg",
+        "label": "runway / sparkle-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/sparkle-2.jpg",
+        "label": "runway / sparkle-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/sparkle-3.jpg",
+        "label": "runway / sparkle-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/sparkle-contact.jpg",
+        "label": "runway / sparkle-contact.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/sparkle-1-v3.jpg",
+        "label": "runway/fixed / sparkle-1-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/sparkle-1.jpg",
+        "label": "runway/fixed / sparkle-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/sparkle-2-v3.jpg",
+        "label": "runway/fixed / sparkle-2-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/sparkle-2.jpg",
+        "label": "runway/fixed / sparkle-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/sparkle-3-v3.jpg",
+        "label": "runway/fixed / sparkle-3-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/sparkle-3.jpg",
+        "label": "runway/fixed / sparkle-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/04-sparkle.jpg",
+        "label": "twin-hat-mocks / 04-sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-back-sparkle.jpg",
+        "label": "twin-hat-mocks / 07-back-sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-texture-flash-sparkle.jpg",
+        "label": "twin-hat-mocks / 07-texture-flash-sparkle.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/sparkle-v2.jpg",
+        "label": "haitmous-faceless/watson / sparkle-v2.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/sparkle-1.jpg",
+        "label": "haitmous-round2 / sparkle-1.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/sparkle-2.jpg",
+        "label": "haitmous-round2 / sparkle-2.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-07-sparkle-laugh.jpg",
+        "label": "loro/final / final-07-sparkle-laugh.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      }
+    ],
+    "haiter": [
+      {
+        "path": "/workspace/hats/haitmous-editorial/haiter-original-v2.jpg",
+        "label": "haitmous-editorial / haiter-original-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "original"
+      },
+      {
+        "path": "/workspace/hats/haitmous-editorial/haiter-comfort-v2.jpg",
+        "label": "haitmous-editorial / haiter-comfort-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "comfort"
+      },
+      {
+        "path": "/workspace/hats/haitmous-curb/haiter.jpg",
+        "label": "haitmous-curb / haiter.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/haiter-1.jpg",
+        "label": "haitmous-round2 / haiter-1.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/haiter-2.jpg",
+        "label": "haitmous-round2 / haiter-2.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/haiter/back.jpg",
+        "label": "haitmous-selected/web/haiter / back.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/haiter/editorial-1.jpg",
+        "label": "haitmous-selected/web/haiter / editorial-1.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/haiter/editorial-4.jpg",
+        "label": "haitmous-selected/web/haiter / editorial-4.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/haiter/front.jpg",
+        "label": "haitmous-selected/web/haiter / front.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/haiter/hero.jpg",
+        "label": "haitmous-selected/web/haiter / hero.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/haiter/lifestyle-curb.jpg",
+        "label": "haitmous-selected/web/haiter / lifestyle-curb.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/haiter/lifestyle-round2-1.jpg",
+        "label": "haitmous-selected/web/haiter / lifestyle-round2-1.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/haiter/lifestyle-round2-2.jpg",
+        "label": "haitmous-selected/web/haiter / lifestyle-round2-2.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/haiter/lifestyle-runway-3.jpg",
+        "label": "haitmous-selected/web/haiter / lifestyle-runway-3.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/haiter.jpg",
+        "label": "color-selector/closeup / haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--butter--haiter.jpg",
+        "label": "color-selector/closeup / preview--butter--haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--crimson--haiter.jpg",
+        "label": "color-selector/closeup / preview--crimson--haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--ivory--haiter.jpg",
+        "label": "color-selector/closeup / preview--ivory--haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--sandstone--haiter.jpg",
+        "label": "color-selector/closeup / preview--sandstone--haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/haiter.jpg",
+        "label": "color-selector/seated-close / haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--butter--haiter.jpg",
+        "label": "color-selector/seated-close / preview--butter--haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--crimson--haiter.jpg",
+        "label": "color-selector/seated-close / preview--crimson--haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--ivory--haiter.jpg",
+        "label": "color-selector/seated-close / preview--ivory--haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--sandstone--haiter.jpg",
+        "label": "color-selector/seated-close / preview--sandstone--haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/still/haiter-v2.jpg",
+        "label": "haitmous-faceless/still / haiter-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/haiter-1.jpg",
+        "label": "loro / haiter-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/haiter-2.jpg",
+        "label": "loro / haiter-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/haiter-3.jpg",
+        "label": "loro / haiter-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-01-haiter-window.jpg",
+        "label": "loro/final / final-01-haiter-window.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-15-haiter-lobby-seat.jpg",
+        "label": "loro/final / final-15-haiter-lobby-seat.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/wide/haiter-hero-21x9.jpg",
+        "label": "loro/wide / haiter-hero-21x9.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/haiter-back.jpg",
+        "label": "printful-mockups / haiter-back.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/haiter-printful-embroidery_front_large-front.jpg",
+        "label": "printful-mockups / haiter-printful-embroidery_front_large-front.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/haiter-1.jpg",
+        "label": "runway / haiter-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/haiter-2.jpg",
+        "label": "runway / haiter-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/haiter-3.jpg",
+        "label": "runway / haiter-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/haiter-contact.jpg",
+        "label": "runway / haiter-contact.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/haiter-2-v3.jpg",
+        "label": "runway/fixed / haiter-2-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/haiter-2.jpg",
+        "label": "runway/fixed / haiter-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/haiter-3-v3.jpg",
+        "label": "runway/fixed / haiter-3-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/haiter-3.jpg",
+        "label": "runway/fixed / haiter-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/05-haiter-editorial-1.jpg",
+        "label": "twin-hat-mocks / 05-haiter-editorial-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/05-haiter-editorial-2.jpg",
+        "label": "twin-hat-mocks / 05-haiter-editorial-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/05-haiter-editorial-3.jpg",
+        "label": "twin-hat-mocks / 05-haiter-editorial-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/05-haiter-editorial-4.jpg",
+        "label": "twin-hat-mocks / 05-haiter-editorial-4.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/05-haiter-no-ww.jpg",
+        "label": "twin-hat-mocks / 05-haiter-no-ww.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/06-haiter-flash-bed.jpg",
+        "label": "twin-hat-mocks / 06-haiter-flash-bed.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/06-haiter-flash-dinner.jpg",
+        "label": "twin-hat-mocks / 06-haiter-flash-dinner.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-back-haiter.jpg",
+        "label": "twin-hat-mocks / 07-back-haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-texture-flash-haiter.jpg",
+        "label": "twin-hat-mocks / 07-texture-flash-haiter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/still/haiter.jpg",
+        "label": "haitmous-faceless/still / haiter.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/haiter-v2.jpg",
+        "label": "haitmous-faceless/watson / haiter-v2.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/haiter-v3.jpg",
+        "label": "haitmous-faceless/watson / haiter-v3.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/haiter.jpg",
+        "label": "haitmous-faceless/watson / haiter.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      }
+    ],
+    "youre-absolutely-right": [
+      {
+        "path": "/workspace/hats/haitmous-editorial/youre-absolutely-right-original-v2.jpg",
+        "label": "haitmous-editorial / youre-absolutely-right-original-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "original"
+      },
+      {
+        "path": "/workspace/hats/haitmous-editorial/youre-absolutely-right-comfort-v2.jpg",
+        "label": "haitmous-editorial / youre-absolutely-right-comfort-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "comfort"
+      },
+      {
+        "path": "/workspace/hats/haitmous-curb/youre-absolutely-right.jpg",
+        "label": "haitmous-curb / youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/still/youre-absolutely-right.jpg",
+        "label": "haitmous-faceless/still / youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/youre-absolutely-right.jpg",
+        "label": "haitmous-faceless/watson / youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/youre-absolutely-right/back.jpg",
+        "label": "haitmous-selected/web/youre-absolutely-right / back.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/youre-absolutely-right/closeup.jpg",
+        "label": "haitmous-selected/web/youre-absolutely-right / closeup.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/youre-absolutely-right/front.jpg",
+        "label": "haitmous-selected/web/youre-absolutely-right / front.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/youre-absolutely-right/hero.jpg",
+        "label": "haitmous-selected/web/youre-absolutely-right / hero.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/youre-absolutely-right/lifestyle-car.jpg",
+        "label": "haitmous-selected/web/youre-absolutely-right / lifestyle-car.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/youre-absolutely-right/lifestyle-curb.jpg",
+        "label": "haitmous-selected/web/youre-absolutely-right / lifestyle-curb.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/youre-absolutely-right/lifestyle-nod.jpg",
+        "label": "haitmous-selected/web/youre-absolutely-right / lifestyle-nod.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/youre-absolutely-right/lifestyle-runway-1.jpg",
+        "label": "haitmous-selected/web/youre-absolutely-right / lifestyle-runway-1.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/youre-absolutely-right/lifestyle-texture.jpg",
+        "label": "haitmous-selected/web/youre-absolutely-right / lifestyle-texture.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--butter--youre-absolutely-right.jpg",
+        "label": "color-selector/closeup / preview--butter--youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--crimson--youre-absolutely-right.jpg",
+        "label": "color-selector/closeup / preview--crimson--youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--ivory--youre-absolutely-right.jpg",
+        "label": "color-selector/closeup / preview--ivory--youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--sandstone--youre-absolutely-right.jpg",
+        "label": "color-selector/closeup / preview--sandstone--youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/youre-absolutely-right.jpg",
+        "label": "color-selector/closeup / youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--butter--youre-absolutely-right.jpg",
+        "label": "color-selector/seated-close / preview--butter--youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--crimson--youre-absolutely-right.jpg",
+        "label": "color-selector/seated-close / preview--crimson--youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--ivory--youre-absolutely-right.jpg",
+        "label": "color-selector/seated-close / preview--ivory--youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--sandstone--youre-absolutely-right.jpg",
+        "label": "color-selector/seated-close / preview--sandstone--youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/youre-absolutely-right.jpg",
+        "label": "color-selector/seated-close / youre-absolutely-right.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/youre-absolutely-right-1.jpg",
+        "label": "haitmous-round2 / youre-absolutely-right-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/youre-absolutely-right-2.jpg",
+        "label": "haitmous-round2 / youre-absolutely-right-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/youre-absolutely-right-1.jpg",
+        "label": "loro / youre-absolutely-right-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/youre-absolutely-right-2.jpg",
+        "label": "loro / youre-absolutely-right-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/youre-absolutely-right-3.jpg",
+        "label": "loro / youre-absolutely-right-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-06-youre-absolutely-right-nod.jpg",
+        "label": "loro/final / final-06-youre-absolutely-right-nod.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/wide/youre-absolutely-right-hero-21x9.jpg",
+        "label": "loro/wide / youre-absolutely-right-hero-21x9.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/youre-absolutely-right-back.jpg",
+        "label": "printful-mockups / youre-absolutely-right-back.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/youre-absolutely-right-boutique-flat.jpg",
+        "label": "printful-mockups / youre-absolutely-right-boutique-flat.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/youre-absolutely-right-printful-embroidery_front_large-front.jpg",
+        "label": "printful-mockups / youre-absolutely-right-printful-embroidery_front_large-front.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/youre-absolutely-right-1.jpg",
+        "label": "runway / youre-absolutely-right-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/youre-absolutely-right-2.jpg",
+        "label": "runway / youre-absolutely-right-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/youre-absolutely-right-3.jpg",
+        "label": "runway / youre-absolutely-right-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/youre-absolutely-right-contact.jpg",
+        "label": "runway / youre-absolutely-right-contact.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/youre-absolutely-right-1-v3.jpg",
+        "label": "runway/fixed / youre-absolutely-right-1-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/youre-absolutely-right-1.jpg",
+        "label": "runway/fixed / youre-absolutely-right-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/youre-absolutely-right-2-v3.jpg",
+        "label": "runway/fixed / youre-absolutely-right-2-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/youre-absolutely-right-2.jpg",
+        "label": "runway/fixed / youre-absolutely-right-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/youre-absolutely-right-3-v3.jpg",
+        "label": "runway/fixed / youre-absolutely-right-3-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/youre-absolutely-right-3.jpg",
+        "label": "runway/fixed / youre-absolutely-right-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/06-youre-absolutely-right-closeup-no-ww.jpg",
+        "label": "twin-hat-mocks / 06-youre-absolutely-right-closeup-no-ww.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/06-youre-absolutely-right-no-ww-v2.jpg",
+        "label": "twin-hat-mocks / 06-youre-absolutely-right-no-ww-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/06-youre-absolutely-right-no-ww.jpg",
+        "label": "twin-hat-mocks / 06-youre-absolutely-right-no-ww.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-back-youreabsolutelyright.jpg",
+        "label": "twin-hat-mocks / 07-back-youreabsolutelyright.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-texture-flash-youreabsolutelyright.jpg",
+        "label": "twin-hat-mocks / 07-texture-flash-youreabsolutelyright.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      }
+    ],
+    "em-dash": [
+      {
+        "path": "/workspace/hats/haitmous-editorial/em-dash-original-v2.jpg",
+        "label": "haitmous-editorial / em-dash-original-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "original"
+      },
+      {
+        "path": "/workspace/hats/haitmous-editorial/em-dash-comfort-v2.jpg",
+        "label": "haitmous-editorial / em-dash-comfort-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": "comfort"
+      },
+      {
+        "path": "/workspace/hats/haitmous-curb/em-dash.jpg",
+        "label": "haitmous-curb / em-dash.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/still/em-dash.jpg",
+        "label": "haitmous-faceless/still / em-dash.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/em-dash-v3.jpg",
+        "label": "haitmous-faceless/watson / em-dash-v3.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/em-dash-1.jpg",
+        "label": "haitmous-round2 / em-dash-1.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round2/em-dash-2.jpg",
+        "label": "haitmous-round2 / em-dash-2.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-round3/em-dash-1.jpg",
+        "label": "haitmous-round3 / em-dash-1.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/em-dash/back.jpg",
+        "label": "haitmous-selected/web/em-dash / back.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/em-dash/front.jpg",
+        "label": "haitmous-selected/web/em-dash / front.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/em-dash/hero.jpg",
+        "label": "haitmous-selected/web/em-dash / hero.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/em-dash/lifestyle-curb.jpg",
+        "label": "haitmous-selected/web/em-dash / lifestyle-curb.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/em-dash/lifestyle-editorial-comfort.jpg",
+        "label": "haitmous-selected/web/em-dash / lifestyle-editorial-comfort.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/em-dash/lifestyle-editorial-original.jpg",
+        "label": "haitmous-selected/web/em-dash / lifestyle-editorial-original.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/em-dash/lifestyle-round3-1.jpg",
+        "label": "haitmous-selected/web/em-dash / lifestyle-round3-1.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/em-dash/lifestyle-runway-2.jpg",
+        "label": "haitmous-selected/web/em-dash / lifestyle-runway-2.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-selected/web/em-dash/worn.jpg",
+        "label": "haitmous-selected/web/em-dash / worn.jpg",
+        "on_pdp": true,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/em-dash.jpg",
+        "label": "color-selector/closeup / em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--butter--em-dash.jpg",
+        "label": "color-selector/closeup / preview--butter--em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--crimson--em-dash.jpg",
+        "label": "color-selector/closeup / preview--crimson--em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--ivory--em-dash.jpg",
+        "label": "color-selector/closeup / preview--ivory--em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--sandstone--em-dash.jpg",
+        "label": "color-selector/closeup / preview--sandstone--em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/em-dash.jpg",
+        "label": "color-selector/seated-close / em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--butter--em-dash.jpg",
+        "label": "color-selector/seated-close / preview--butter--em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--crimson--em-dash.jpg",
+        "label": "color-selector/seated-close / preview--crimson--em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--ivory--em-dash.jpg",
+        "label": "color-selector/seated-close / preview--ivory--em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--sandstone--em-dash.jpg",
+        "label": "color-selector/seated-close / preview--sandstone--em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/em-dash-v2.jpg",
+        "label": "haitmous-faceless/watson / em-dash-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-faceless/watson/em-dash.jpg",
+        "label": "haitmous-faceless/watson / em-dash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/em-dash-1.jpg",
+        "label": "loro / em-dash-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/em-dash-2.jpg",
+        "label": "loro / em-dash-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/em-dash-3.jpg",
+        "label": "loro / em-dash-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-05-em-dash-interrupted.jpg",
+        "label": "loro/final / final-05-em-dash-interrupted.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-13-em-dash-steps.jpg",
+        "label": "loro/final / final-13-em-dash-steps.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/wide/em-dash-hero-16x9.jpg",
+        "label": "loro/wide / em-dash-hero-16x9.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/em-dash-back.jpg",
+        "label": "printful-mockups / em-dash-back.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/em-dash-printful-embroidery_front_large-front.jpg",
+        "label": "printful-mockups / em-dash-printful-embroidery_front_large-front.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/em-dash-variants.jpg",
+        "label": "printful-mockups / em-dash-variants.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/em-dash-1.jpg",
+        "label": "runway / em-dash-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/em-dash-2.jpg",
+        "label": "runway / em-dash-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/em-dash-3.jpg",
+        "label": "runway / em-dash-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/em-dash-contact.jpg",
+        "label": "runway / em-dash-contact.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/em-dash-1-v3.jpg",
+        "label": "runway/fixed / em-dash-1-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/em-dash-1.jpg",
+        "label": "runway/fixed / em-dash-1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/em-dash-2-v3.jpg",
+        "label": "runway/fixed / em-dash-2-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/em-dash-2.jpg",
+        "label": "runway/fixed / em-dash-2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/em-dash-3-v3.jpg",
+        "label": "runway/fixed / em-dash-3-v3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/runway/fixed/em-dash-3.jpg",
+        "label": "runway/fixed / em-dash-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-back-emdash.jpg",
+        "label": "twin-hat-mocks / 07-back-emdash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-em-dash-no-ww.jpg",
+        "label": "twin-hat-mocks / 07-em-dash-no-ww.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-texture-flash-emdash.jpg",
+        "label": "twin-hat-mocks / 07-texture-flash-emdash.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      }
+    ],
+    "collection": [
+      {
+        "path": "/workspace/hats/loro/paparazzi/paparazzi-02-gallery-arrival.jpg",
+        "label": "loro/paparazzi / paparazzi-02-gallery-arrival.jpg",
+        "on_pdp": false,
+        "reaction": "liked",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/contact.jpg",
+        "label": "color-selector / contact.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--butter.jpg",
+        "label": "color-selector/closeup / preview--butter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--crimson.jpg",
+        "label": "color-selector/closeup / preview--crimson.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--ivory.jpg",
+        "label": "color-selector/closeup / preview--ivory.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/closeup/preview--sandstone.jpg",
+        "label": "color-selector/closeup / preview--sandstone.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--butter.jpg",
+        "label": "color-selector/seated-close / preview--butter.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--crimson.jpg",
+        "label": "color-selector/seated-close / preview--crimson.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--ivory.jpg",
+        "label": "color-selector/seated-close / preview--ivory.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/color-selector/seated-close/preview--sandstone.jpg",
+        "label": "color-selector/seated-close / preview--sandstone.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/haitmous-editorial/v2-contact.jpg",
+        "label": "haitmous-editorial / v2-contact.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/five-hats-boutique-mockup.jpg",
+        "label": "hats / five-hats-boutique-mockup.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/four-hats-boutique-mockup-v2.jpg",
+        "label": "hats / four-hats-boutique-mockup-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/seven-hats-boutique-mockup.jpg",
+        "label": "hats / seven-hats-boutique-mockup.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/seven-hats-christmas-window-v1.jpg",
+        "label": "hats / seven-hats-christmas-window-v1.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/seven-hats-christmas-window-v2.jpg",
+        "label": "hats / seven-hats-christmas-window-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/seven-hats-christmas-window.jpg",
+        "label": "hats / seven-hats-christmas-window.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/seven-hats-ski-boutique-shelves.jpg",
+        "label": "hats / seven-hats-ski-boutique-shelves.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/seven-hats-ski-lodge-mockup.jpg",
+        "label": "hats / seven-hats-ski-lodge-mockup.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/six-hats-boutique-mockup.jpg",
+        "label": "hats / six-hats-boutique-mockup.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-09-walking-purpose.jpg",
+        "label": "loro/final / final-09-walking-purpose.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-16-pair-market.jpg",
+        "label": "loro/final / final-16-pair-market.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-round-contact-sheet.jpg",
+        "label": "loro/final / final-round-contact-sheet.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/wide/collection-dc-rowhouse-16x9.jpg",
+        "label": "loro/wide / collection-dc-rowhouse-16x9.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/wide/collection-winter-market-21x9.jpg",
+        "label": "loro/wide / collection-winter-market-21x9.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/all-backs-white.jpg",
+        "label": "printful-mockups / all-backs-white.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/printful-mockups/seven-printful-drafts-sheet.jpg",
+        "label": "printful-mockups / seven-printful-drafts-sheet.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/refs-stitch/ALL_COMING_BACK_TO_ME-3.jpg",
+        "label": "refs-stitch / ALL_COMING_BACK_TO_ME-3.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/refs-stitch/black-cap-white-satin.jpg",
+        "label": "refs-stitch / black-cap-white-satin.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/refs-stitch/black-cap-white-satin.webp",
+        "label": "refs-stitch / black-cap-white-satin.webp",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-contact-sheet-v2.jpg",
+        "label": "twin-hat-mocks / 07-contact-sheet-v2.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/07-contact-sheet-v3-additions.jpg",
+        "label": "twin-hat-mocks / 07-contact-sheet-v3-additions.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/five-hats-on-person-no-ww.jpg",
+        "label": "twin-hat-mocks / five-hats-on-person-no-ww.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/four-hats-twin-grid.jpg",
+        "label": "twin-hat-mocks / four-hats-twin-grid.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/twin-hat-mocks/six-hats-on-person-no-ww.jpg",
+        "label": "twin-hat-mocks / six-hats-on-person-no-ww.jpg",
+        "on_pdp": false,
+        "reaction": null,
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/final/final-08-sky-whats-next.jpg",
+        "label": "loro/final / final-08-sky-whats-next.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/paparazzi/rejected/paparazzi-01-hotel-arrival.jpg",
+        "label": "loro/paparazzi/rejected / paparazzi-01-hotel-arrival.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/paparazzi/rejected/paparazzi-03-leaving-restaurant.jpg",
+        "label": "loro/paparazzi/rejected / paparazzi-03-leaving-restaurant.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/paparazzi/rejected/paparazzi-04-greeting-hug.jpg",
+        "label": "loro/paparazzi/rejected / paparazzi-04-greeting-hug.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/paparazzi/rejected/paparazzi-05-crossing-street.jpg",
+        "label": "loro/paparazzi/rejected / paparazzi-05-crossing-street.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/paparazzi/rejected/paparazzi-06-midlaugh-story.jpg",
+        "label": "loro/paparazzi/rejected / paparazzi-06-midlaugh-story.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/paparazzi/rejected/paparazzi-07-pointing.jpg",
+        "label": "loro/paparazzi/rejected / paparazzi-07-pointing.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/paparazzi/rejected/paparazzi-08-passing-coffee.jpg",
+        "label": "loro/paparazzi/rejected / paparazzi-08-passing-coffee.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/paparazzi/rejected/paparazzi-09-holding-door.jpg",
+        "label": "loro/paparazzi/rejected / paparazzi-09-holding-door.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      },
+      {
+        "path": "/workspace/hats/loro/paparazzi/rejected/paparazzi-contact-sheet.jpg",
+        "label": "loro/paparazzi/rejected / paparazzi-contact-sheet.jpg",
+        "on_pdp": false,
+        "reaction": "rejected",
+        "editorial": null
+      }
+    ]
+  }
+}
