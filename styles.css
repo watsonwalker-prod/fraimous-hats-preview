@@ -14,6 +14,7 @@
   --bone: #f6efe6;
   --font-display: "Syne", system-ui, sans-serif;
   --font-body: "Instrument Sans", "Helvetica Neue", system-ui, sans-serif;
+  --font-serif: "Instrument Serif", "Times New Roman", serif;
   --font-mono: "IBM Plex Mono", ui-monospace, monospace;
   --pad: clamp(1.25rem, 4vw, 2.75rem);
   --max: 1360px;
@@ -216,7 +217,7 @@ p, li {
 }
 
 .hero-band h1 {
-  margin: 0 0 1.15rem;
+  margin: 0;
   font-family: var(--font-display);
   font-size: clamp(1.55rem, 4.2vw, 2.55rem);
   font-weight: 700;
@@ -224,6 +225,18 @@ p, li {
   line-height: 1.15;
   text-transform: uppercase;
   color: var(--ink);
+}
+
+.hero-band .hero-joke {
+  margin: 0.45rem 0 1.15rem;
+  font-style: normal;
+  letter-spacing: 0.04em;
+}
+
+.hero-band .hero-joke-words {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
 }
 
 /* ——— Collection grid ——— */
