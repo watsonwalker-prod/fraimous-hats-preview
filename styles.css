@@ -1045,6 +1045,36 @@ video::-webkit-media-controls-start-playback-button {
   font-size: 0.98rem;
   line-height: 1.5;
 }
+
+.pdp-actual {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin: 0 0 1rem;
+}
+.pdp-actual img {
+  width: 6.5rem;
+  height: 6.5rem;
+  flex: 0 0 6.5rem;
+  object-fit: cover;
+  border: 1px solid var(--line);
+  background: #fff;
+}
+.pdp-actual figcaption { margin: 0; }
+.pdp-actual-kicker {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.1em;
+  color: var(--mute);
+}
+.pdp-actual-name {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 1rem;
+  color: var(--ink);
+}
+
 .pdp-specs {
   display: grid;
   gap: 0.35rem;
