@@ -218,10 +218,11 @@ p, li {
 .hero-band h1 {
   margin: 0 0 1.15rem;
   font-family: var(--font-display);
-  font-size: clamp(2.15rem, 6vw, 3.6rem);
+  font-size: clamp(1.55rem, 4.2vw, 2.55rem);
   font-weight: 700;
-  letter-spacing: -0.03em;
-  line-height: 1.05;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+  text-transform: uppercase;
   color: var(--ink);
 }
 
