@@ -25,7 +25,7 @@
     },
     {
       "slug": "sparkle",
-      "name": "✨",
+      "name": "\u2728",
       "color": "Khaki",
       "swatch": "#a68d6e",
       "href": "/hats/sparkle"
@@ -39,17 +39,24 @@
     },
     {
       "slug": "youre-absolutely-right",
-      "name": "You’re Absolutely Right",
+      "name": "You\u2019re Absolutely Right",
       "color": "Black",
       "swatch": "#212121",
       "href": "/hats/youre-absolutely-right"
     },
     {
       "slug": "em-dash",
-      "name": "—",
+      "name": "\u2014",
       "color": "White",
       "swatch": "#f2f2f0",
       "href": "/hats/em-dash"
+    },
+    {
+      "slug": "i-got-that-doj-in-me",
+      "name": "I Got That DOJ In Me",
+      "color": "Olive",
+      "swatch": "#556049",
+      "href": "/hats/i-got-that-doj-in-me"
     }
   ],
   "scenes": [
@@ -64,7 +71,8 @@
         "sparkle": "/images/color-selector/seated-close/sparkle-fedfc659.webp",
         "haiter": "/images/color-selector/seated-close/haiter-367bd765.webp",
         "youre-absolutely-right": "/images/color-selector/seated-close/youre-absolutely-right-849ad43b.webp",
-        "em-dash": "/images/color-selector/seated-close/em-dash-e56670f0.webp"
+        "em-dash": "/images/color-selector/seated-close/em-dash-e56670f0.webp",
+        "i-got-that-doj-in-me": "/images/color-selector/seated-close/i-got-that-doj-in-me-4ab4b86c.webp"
       },
       "previews": {
         "butter": {
@@ -74,7 +82,8 @@
           "many-are-saying": "/images/color-selector/seated-close/preview-butter-many-are-saying-ed513a2b.webp",
           "raige-bait": "/images/color-selector/seated-close/preview-butter-raige-bait-10b73e4f.webp",
           "sparkle": "/images/color-selector/seated-close/preview-butter-sparkle-6c37980d.webp",
-          "youre-absolutely-right": "/images/color-selector/seated-close/preview-butter-youre-absolutely-right-e2c122da.webp"
+          "youre-absolutely-right": "/images/color-selector/seated-close/preview-butter-youre-absolutely-right-e2c122da.webp",
+          "i-got-that-doj-in-me": "/images/color-selector/seated-close/i-got-that-doj-in-me-4ab4b86c.webp"
         },
         "crimson": {
           "dot-dot-dot": "/images/color-selector/seated-close/preview-crimson-dot-dot-dot-2c1431c4.webp",
@@ -83,7 +92,8 @@
           "many-are-saying": "/images/color-selector/seated-close/preview-crimson-many-are-saying-c58be392.webp",
           "raige-bait": "/images/color-selector/seated-close/preview-crimson-raige-bait-8ccb0383.webp",
           "sparkle": "/images/color-selector/seated-close/preview-crimson-sparkle-f2e2e19d.webp",
-          "youre-absolutely-right": "/images/color-selector/seated-close/preview-crimson-youre-absolutely-right-fab7e956.webp"
+          "youre-absolutely-right": "/images/color-selector/seated-close/preview-crimson-youre-absolutely-right-fab7e956.webp",
+          "i-got-that-doj-in-me": "/images/color-selector/seated-close/i-got-that-doj-in-me-4ab4b86c.webp"
         },
         "ivory": {
           "dot-dot-dot": "/images/color-selector/seated-close/preview-ivory-dot-dot-dot-dab9c52c.webp",
@@ -92,7 +102,8 @@
           "many-are-saying": "/images/color-selector/seated-close/preview-ivory-many-are-saying-5b6eaf12.webp",
           "raige-bait": "/images/color-selector/seated-close/preview-ivory-raige-bait-ad2e4f29.webp",
           "sparkle": "/images/color-selector/seated-close/preview-ivory-sparkle-6e78609e.webp",
-          "youre-absolutely-right": "/images/color-selector/seated-close/preview-ivory-youre-absolutely-right-487120b1.webp"
+          "youre-absolutely-right": "/images/color-selector/seated-close/preview-ivory-youre-absolutely-right-487120b1.webp",
+          "i-got-that-doj-in-me": "/images/color-selector/seated-close/i-got-that-doj-in-me-4ab4b86c.webp"
         },
         "sandstone": {
           "dot-dot-dot": "/images/color-selector/seated-close/preview-sandstone-dot-dot-dot-108900f4.webp",
@@ -101,7 +112,8 @@
           "many-are-saying": "/images/color-selector/seated-close/preview-sandstone-many-are-saying-58cc09ec.webp",
           "raige-bait": "/images/color-selector/seated-close/preview-sandstone-raige-bait-13a3aecf.webp",
           "sparkle": "/images/color-selector/seated-close/preview-sandstone-sparkle-84400b01.webp",
-          "youre-absolutely-right": "/images/color-selector/seated-close/preview-sandstone-youre-absolutely-right-87831aaf.webp"
+          "youre-absolutely-right": "/images/color-selector/seated-close/preview-sandstone-youre-absolutely-right-87831aaf.webp",
+          "i-got-that-doj-in-me": "/images/color-selector/seated-close/i-got-that-doj-in-me-4ab4b86c.webp"
         }
       }
     },
@@ -116,7 +128,8 @@
         "sparkle": "/images/color-selector/closeup/sparkle-ca005553.webp",
         "haiter": "/images/color-selector/closeup/haiter-fef098a4.webp",
         "youre-absolutely-right": "/images/color-selector/closeup/youre-absolutely-right-0a4ccb4f.webp",
-        "em-dash": "/images/color-selector/closeup/em-dash-2a507be8.webp"
+        "em-dash": "/images/color-selector/closeup/em-dash-2a507be8.webp",
+        "i-got-that-doj-in-me": "/images/color-selector/closeup/i-got-that-doj-in-me-97a5b101.webp"
       },
       "previews": {
         "butter": {
@@ -126,7 +139,8 @@
           "many-are-saying": "/images/color-selector/closeup/preview-butter-many-are-saying-962abc2c.webp",
           "raige-bait": "/images/color-selector/closeup/preview-butter-raige-bait-b6bb42f9.webp",
           "sparkle": "/images/color-selector/closeup/preview-butter-sparkle-4f888c1c.webp",
-          "youre-absolutely-right": "/images/color-selector/closeup/preview-butter-youre-absolutely-right-22ef488a.webp"
+          "youre-absolutely-right": "/images/color-selector/closeup/preview-butter-youre-absolutely-right-22ef488a.webp",
+          "i-got-that-doj-in-me": "/images/color-selector/closeup/i-got-that-doj-in-me-97a5b101.webp"
         },
         "crimson": {
           "dot-dot-dot": "/images/color-selector/closeup/preview-crimson-dot-dot-dot-7c5a7603.webp",
@@ -135,7 +149,8 @@
           "many-are-saying": "/images/color-selector/closeup/preview-crimson-many-are-saying-af90e6ef.webp",
           "raige-bait": "/images/color-selector/closeup/preview-crimson-raige-bait-657c4dcd.webp",
           "sparkle": "/images/color-selector/closeup/preview-crimson-sparkle-01479282.webp",
-          "youre-absolutely-right": "/images/color-selector/closeup/preview-crimson-youre-absolutely-right-dd52e978.webp"
+          "youre-absolutely-right": "/images/color-selector/closeup/preview-crimson-youre-absolutely-right-dd52e978.webp",
+          "i-got-that-doj-in-me": "/images/color-selector/closeup/i-got-that-doj-in-me-97a5b101.webp"
         },
         "ivory": {
           "dot-dot-dot": "/images/color-selector/closeup/preview-ivory-dot-dot-dot-2175df08.webp",
@@ -144,7 +159,8 @@
           "many-are-saying": "/images/color-selector/closeup/preview-ivory-many-are-saying-faed10ea.webp",
           "raige-bait": "/images/color-selector/closeup/preview-ivory-raige-bait-f2640917.webp",
           "sparkle": "/images/color-selector/closeup/preview-ivory-sparkle-e172f7ee.webp",
-          "youre-absolutely-right": "/images/color-selector/closeup/preview-ivory-youre-absolutely-right-d00917e0.webp"
+          "youre-absolutely-right": "/images/color-selector/closeup/preview-ivory-youre-absolutely-right-d00917e0.webp",
+          "i-got-that-doj-in-me": "/images/color-selector/closeup/i-got-that-doj-in-me-97a5b101.webp"
         },
         "sandstone": {
           "dot-dot-dot": "/images/color-selector/closeup/preview-sandstone-dot-dot-dot-d0ed49a7.webp",
@@ -153,7 +169,8 @@
           "many-are-saying": "/images/color-selector/closeup/preview-sandstone-many-are-saying-63ca4b59.webp",
           "raige-bait": "/images/color-selector/closeup/preview-sandstone-raige-bait-9e5259bd.webp",
           "sparkle": "/images/color-selector/closeup/preview-sandstone-sparkle-3e7aa041.webp",
-          "youre-absolutely-right": "/images/color-selector/closeup/preview-sandstone-youre-absolutely-right-6dbfaf13.webp"
+          "youre-absolutely-right": "/images/color-selector/closeup/preview-sandstone-youre-absolutely-right-6dbfaf13.webp",
+          "i-got-that-doj-in-me": "/images/color-selector/closeup/i-got-that-doj-in-me-97a5b101.webp"
         }
       }
     }

@@ -47,6 +47,7 @@
     haiter: true,
     "youre-absolutely-right": true,
     "em-dash": true,
+    "i-got-that-doj-in-me": true,
   };
 
   function isPrintfulListed() {
