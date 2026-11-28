@@ -1,6 +1,6 @@
 (function () {
   "use strict";
-  var FLAT = { "many-are-saying": "/images/hats/many-are-saying-flat-60c8f6bb.webp", "dot-dot-dot": "/images/hats/dot-dot-dot-flat-33cb195d.webp", "raige-bait": "/images/hats/raige-bait-flat-803f8092.webp", sparkle: "/images/hats/sparkle-flat-a9d86aa4.webp", haiter: "/images/hats/haiter-flat-67ba87ff.webp", "youre-absolutely-right": "/images/hats/youre-absolutely-right-flat-5ea573a2.webp", "em-dash": "/images/hats/em-dash-flat-f45e8eb5.webp" };
+  var FLAT = { "many-are-saying": "/images/hats/many-are-saying-flat-60c8f6bb.webp", "dot-dot-dot": "/images/hats/dot-dot-dot-flat-33cb195d.webp", "raige-bait": "/images/hats/raige-bait-flat-803f8092.webp", sparkle: "/images/hats/sparkle-flat-a9d86aa4.webp", haiter: "/images/hats/haiter-flat-67ba87ff.webp", "youre-absolutely-right": "/images/hats/youre-absolutely-right-flat-5ea573a2.webp", "em-dash": "/images/hats/em-dash-flat-f45e8eb5.webp", "i-got-that-doj-in-me": "/images/hats/i-got-that-doj-in-me-flat-af79f8d1.webp" };
   var EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   function readCart() { try { var c = JSON.parse(localStorage.getItem("hatCart") || "[]"); return Array.isArray(c) ? c.filter(function (i) { return i && i.slug; }) : []; } catch (e) { return []; } }
   function writeCart(c) { try { localStorage.setItem("hatCart", JSON.stringify(c)); } catch (e) {} }
